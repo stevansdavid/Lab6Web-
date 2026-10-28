@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.highlight {
+    color: #173f75;
+    background-color: #e6f1ff;
+    border-left: 4px solid #3478c8;
+    padding: 12px;
+}
+
+.teks-besar {
+    font-size: 1.4rem;
+}
+
+
+li {
+    margin-bottom: 12px;
+}
+
+li span {
+    margin-right: 10px;
+}
+
+li button {
+    margin-right: 5px;
+    padding: 6px 10px;
+}
+
+.selesai span {
+    text-decoration: line-through;
+    color: #687386;
+}
